@@ -42,7 +42,8 @@
       -  best_model_lr.pth - параметры лучшей модели
       -  dog_lables75.npy - лэйблы для обучения (75 пород)
       -  dog_features75.npy - фичи (75 пород)
-      -  confusion_matrix_log_reg - результат тестирования модели
+      -  confusion_matrix_log_reg.png - результат тестирования модели
 2. resnet
       -  Result_test_resnet.ipynb - обучение лучшей модели на полном датасете
+      -  dog_breeds_confusion_matrix.png - результат тестирования модели
       -- параметры моделей слишко тяжелые для загрузки
